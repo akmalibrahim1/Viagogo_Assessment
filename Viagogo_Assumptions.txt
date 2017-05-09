@@ -1,0 +1,5 @@
+ASSUMPTIONS
+===========
+- Maximum price of a ticket is set to $7500 
+- The largest possible event arena has a capacity of 108000 
+- Each ticket has a different price 
