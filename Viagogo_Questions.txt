@@ -1,0 +1,9 @@
+Questions 
+=========
+- How might you change your program if you needed to support multiple events at the same location? 
+
+	I would create an array list for each coordinate (Point) that would store the 	various events and when seeding I would just add to the array list of the 		coordinate that is randomly chosen. Then when locating the 5 events I would 	also add an extra loop that would go through each array list and obtain the 	events located there.  
+
+- How would you change your program if you were working with a much larger world size? 
+
+	I would decrease the amount of iterations when seeding data, instead of 		having it go through the same amount of iterations as there are coordinates. 	I would also split the number of tickets into categories with each category 	having a price, instead of a different price for each seat. I would perform a 
