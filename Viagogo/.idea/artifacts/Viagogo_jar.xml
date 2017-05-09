@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Viagogo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Viagogo_jar</output-path>
+    <root id="archive" name="Viagogo.jar">
+      <element id="module-output" name="Viagogo" />
+    </root>
+  </artifact>
+</component>
